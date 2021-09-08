@@ -10,3 +10,5 @@ namespace Full_GRASP_And_SOLID.Library
         }
     }
 }
+
+//Cambie las responsabilidades usando el principio SRP para crean una clase Consoleprinter el cual tenga un metodo PrintRecipe que se encarge de imprimir el texto
